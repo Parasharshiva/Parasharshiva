@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parasharshiva
 - 👀 I’m interested in AI and their Works
-- 🌱 I’m currently learning Fundamental of Graphic Designing 
+- 🌱 I’m currently learning Fundamental of Graphic Designing (UI/UX)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email 
 - 😄 Pronouns: Shiva

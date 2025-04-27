@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Parashar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Graphic Designer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=parasharshiva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently learning **Graphic Designing**
+- 🌱 I’m currently learning **Android Development**
 - 👨‍💻 Check out my projects at [GitHub Repositories](https://github.com/Parasharshiva?tab=repositories)
-- 💬 Ask me about **C, C++, Python**
+- 💬 Ask me about **java, C, C++, Python**
 - 📫 Reach me at **parasharshivam232@gmail.com**
 - ⚡ Fun fact: **I think I'm funny... 😅**
 

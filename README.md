@@ -1,4 +1,4 @@
-![logo](https://github.com/Parasharshiva/Parasharshiva/blob/main/github%20banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Shivam Parashar</h1>
 <h3 align="center">A passionate software Developer from India</h3>
 

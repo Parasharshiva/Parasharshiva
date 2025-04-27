@@ -1,4 +1,4 @@
-![logo]()
+![logo](\Black and White Simple Motivational Quote LinkedIn Banner.jpg")
 <h1 align="center">Hi 👋, I'm Shivam Parashar</h1>
 <h3 align="center">A passionate software Developer from India</h3>
 

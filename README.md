@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=parasharshiva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Advance DBMS, Advance Java**
 - 👨‍💻 Check out my projects at [GitHub Repositories](https://github.com/Parasharshiva?tab=repositories)
-- 💬 Ask me about **java, C, C++, Python**
+- 💬 Ask me about **java, C, C++, R**
 - 📫 Reach me at **parasharshivam232@gmail.com**
 - ⚡ Fun fact: **I think I'm funny... 😅**
 
